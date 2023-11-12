@@ -1,5 +1,5 @@
 Welcome to [DASH] project Wiki
-[test](test)
+[test](test.md)
 [project-overview](https://github.com/MichelVGameMaker/DASH_WIKI/wiki#1-project-overview)
 
 [project-structurew](https://github.com/MichelVGameMaker/DASH_WIKI/wiki#2-project-structure)

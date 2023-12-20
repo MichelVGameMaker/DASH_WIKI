@@ -1,7 +1,4 @@
-  if README_LINK function __readme_link_code_base_structure() {}
-  
   This section is intended to onboard developers on the [DASH] code base; how the game is architectured in terms of initialization, system items, controllers, Services and Libraries. It provides a focus on the room initialization process and the Player’s Avatar object.
-  
 
   ### 3.A. Overall Architecture
   
@@ -14,15 +11,10 @@
   ‘System’ items, that manage the engine.
   ‘Standard’ Objects, those that are placed in the Room). 
   4-Some Services process specifical dimensions of the game (like audio, resolution...).
-
-
-
- 
-
+![image](https://github.com/MichelVGameMaker/DASH_WIKI/assets/62699812/132d4522-bb33-49a1-9fb3-bf5f6b267bbd)
 
   ### 3.B. Files
   If README_LINK function __readme_link_files() {}
-  
   
   #### 3.B.1. User files 
  
@@ -42,9 +34,6 @@
 
   > Work in progress:
   > This section is to be detailed later-on.
-
-  
-  
 
   ### 3.C. External Libraries overview
   if README_LINK function __readme_link_external_librairies() {}
@@ -167,14 +156,11 @@
   Imguigml is GML implementation of imguigml by rousr. I use it for my debugging tools, namely EDI_THOR, DEB_HUG, the debugging main menu, the LDtk importer.  
   How to:
   You should not worry about IMGUIGML. If you need to call its functions, please see the associated documentation within the project.  
-	  
-  
-  
 
   ### 3.D. System Items
+
   if README_LINK function __readme_link_external_librairies() {}
   
-
   #### 3.D.1. Initializer Object   
 
   The Initializer (oSys_Game_init Object) does not appear in the schema because it disappears after Game start.
@@ -275,7 +261,6 @@
 
   Some Services encapsulate Libraries. This can sometimes be misleading, for example there is a FONT Service in oSYS_Engine just to setup Scribble Library for the [DASH] project (setting the font). But rendering text is done by calling Scribble functions directly.  
   This section lists all the Services available in the [DASH] project, introducing their functions / methods briefly.  
-
 
  #### 3.B.1. Services overview  
 
@@ -431,10 +416,6 @@ Also, two global functions allow to play sounds from any scope:
  
   **juice_shake:** runs a special screen shake effect, including some Zoom-in and Zoom-out.  
   
-   
-
-
-
   ### 3.D. Room initialization
   if README_LINK function __readme_link_room_initialization() {}
   
@@ -483,12 +464,7 @@ In create event:
 
   > Please note that, for prototyping parallaxed particles in the front layer, I am creating particles in IOTA’s tick for the ROOM_init object.  
 
-  
-  
-
-
-### 3.F. Focus on th Player’s Avatar
- 
+### 3.F. Focus on the Player’s Avatar
   
   This part introduces the code base for the ‘Player’, understand the Player’s Avatar in the game. The code is very basic (because it was developed for prototyping) but should be ok to read.
   

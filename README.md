@@ -1,12 +1,14 @@
 Welcome to [DASH] project Wiki
-[test](test.md)
-[project-overview](https://github.com/MichelVGameMaker/DASH_WIKI/wiki#1-project-overview)
 
-[project-structurew](https://github.com/MichelVGameMaker/DASH_WIKI/wiki#2-project-structure)
+[project-overview](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Project-Overview)
 
-[playing-testing-and-debugging](https://github.com/MichelVGameMaker/DASH_WIKI/wiki#3-playing-testing-and-debugging)
+[project-structure]
 
-[creating-a-level](https://github.com/MichelVGameMaker/DASH_WIKI/wiki#4-creating-a-level)
+[code-base-structurew](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Code-Base-structure)
+
+[playing-testing-and-debugging](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Playing,-testing-and-debugging)
+
+[creating-a-level](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Creating-a-level)
 
 [Variables-by-Category](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Variables-by-Category)
 

@@ -1,10 +1,10 @@
-Welcome to [DASH] project Wiki
+Welcome to the [DASH] project Wiki.
 
 [project-overview](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Project-Overview)
 
 [project-structure]
 
-[code-base-structurew](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Code-Base-structure)
+[code-base-structure](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Code-Base-structure)
 
 [playing-testing-and-debugging](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Playing,-testing-and-debugging)
 

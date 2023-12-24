@@ -2,7 +2,7 @@ Welcome to the [DASH] project Wiki.
 
 [project-overview](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Project-Overview)
 
-[project-structure]
+[project-structure](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/project-structure)
 
 [code-base-structure](https://github.com/MichelVGameMaker/DASH_WIKI/wiki/Code-Base-structure)
 
